@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 
 lets see next
+=======
+/bin/bash: q: command not found
+
+I am working on github for now
+>>>>>>> samsung
